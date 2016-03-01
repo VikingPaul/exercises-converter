@@ -1,5 +1,15 @@
+body {
+  text-align: center;
+}
+
 .answer {
   width: 173px;
   height: 21px;
   border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
